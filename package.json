@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.9.3",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  },
+  "name": "bot-project",
+  "description": "desc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkanxgunes/bot-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/furkanxgunes/bot-project/issues"
+  },
+  "homepage": "https://github.com/furkanxgunes/bot-project#readme"
+}
